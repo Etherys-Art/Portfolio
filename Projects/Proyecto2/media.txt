@@ -1,0 +1,20 @@
+https://dummyimage.com/600x400/000/fff
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
+https://dummyimage.com/600x400/000/fff
+Description for example2.jpg.
+
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRvc3NzdXhtZm0zenlqNGI0NjJ2Z2o4bzQ4ODU2Mnl3dDYwN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ddZ2mYhxhh69wEpSVz/giphy.gif
+These aren't real images but need replacing with your own.
+
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+MP4's are also supported but like with images should be hosted somewhere like dropbox.
+
+https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png // https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png
+You can create before and after slider by seperating two urls with ' // ' 
+
+https://sketchfab.com/3d-models/spas12-remake-rust-42f776f8c91b42a9bfd43452abe3dfa0
+you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+
+https://cdna.artstation.com/p/assets/images/images/091/945/842/large/konstantin-vavilov-drowned-ideation.jpg
+to wapo

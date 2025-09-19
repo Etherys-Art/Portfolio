@@ -1,0 +1,9 @@
+AK-47 Low Poly
+---
+TO WAPA
+---
+Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max, sTEAM)
+---
+thumbnail url (gets injected into your landing page) 
+---
+Proyecto2.html
